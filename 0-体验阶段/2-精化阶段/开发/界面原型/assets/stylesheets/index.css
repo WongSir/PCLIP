@@ -1,0 +1,12 @@
+#login_choice ul li{
+    padding: 2px 5px;
+    margin:2px 5px;
+    list-style: none;
+}
+
+#login_choice .login-info {
+   text-align: center;
+}
+#login_choice {
+    margin:auto;
+}

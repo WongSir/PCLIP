@@ -1,0 +1,29 @@
+td {
+     font-family:"宋体";
+	font-size: 12px;
+	color: #000000;
+}
+
+div {
+	font-family: "宋体";
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+}
+.sub {
+	border: thin solid #CCCCCC;
+}
+
+th {
+	font-family: "宋体";
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+}
+
+.priceedittd{
+	font-family: "隶书";
+	font-size: 15px;
+	color: #000000;
+	text-align: left;
+}
